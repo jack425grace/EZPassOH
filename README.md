@@ -28,7 +28,6 @@ A streamlined web application for managing and calculating tolls and expenses as
 | **Name** | jack425grace |
 | **Email** | jack425grace@outlook.com |
 | **Website** | [EZPassOH](https://EZPassOH) 
-| **Bio & Experience** | jack425grace is a seasoned software architect with over a decade of experience in developing scalable, user-centric web applications. With a Master's degree in Computer Science, they are known for their exceptional mastery of modern JavaScript frameworks, particularly React, and an unyielding commitment to clean code. They are passionate about contributing to the community, always taking the time to mentor junior developers and maintain a welcoming, helpful nature in all collaborative projects. |
 
 ## 🚀 Getting Started
 
