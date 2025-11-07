@@ -27,7 +27,7 @@ A streamlined web application for managing and calculating tolls and expenses as
 | :--- | :--- |
 | **Name** | jack425grace |
 | **Email** | jack425grace@outlook.com |
-| **Website** | [EZPassOH](https://EZPassOH) 
+| **Website** | [EZPassOH](https://www.ez-passoh.com) 
 
 ## 🚀 Getting Started
 
